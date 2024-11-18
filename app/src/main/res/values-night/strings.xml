@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Upcoming</string>
+    <string name="title_notifications">Finished</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="up_coming_event">Up Coming Event</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="recommended_event_for_you">Recommended Event</string>
+    <string name="devcoach">DevCoach</string>
+    <string name="image_up_coming_event">Image Up Coming Event</string>
+    <string name="image_view_content">Image View Content</string>
+    <string name="register">Register</string>
+    <string name="error_loading_events">Error loading events</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_upcoming_events">Now event is empty coming soon!</string>
+    <string name="no_results_found">No results found for your search.</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="love_button">Love Button</string>
+    <string name="favorite_event">Favorite Event</string>
+    <string name="event_favorite_collection">Favorite Collection For You!</string>
+    <string name="now_you_can_add_event_to_favorite">No Event</string>
+    <string name="dark_mode_switch">Dark Mode</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="enable_daily_notification_reminder">Enable Daily Notification Reminder</string>
+</resources>
